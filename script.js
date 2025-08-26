@@ -17,34 +17,26 @@ if (pokemons == "ajuda") {
 `)
 }
 
-if (pokemons == "bulbasaur") { 
-    alert(`O pokémon planta e venonoso. Por algum tempo após o nascimento, Bulbassauro usa os nutrientes contidos na semente em suas costas para crescer.
+if (pokemons == "bulbasaur" || pokemons == 1) { 
+    alert(`O pokémon sapo, planta e venonoso. Pesa 6.9kg e mede 0.7 m
 
 Sua habilidade é Overgrow(Crescimento excessivo):
 aumenta os ataques de tipo planta quando o hp de bulbasaur estiver baixo
 
-Tipagem: Planta e Venenoso
-Mede 0,70 cm de altura
-Pesa 6.9 kg
+Aparência: Bulbasaur é uma criatura reptiliana que de algum jeito lembra um sapo ou um dinossauro jovem com um manchas verde-azuladas escondidas. Tem três dedos brancos ou garras crescendo fora de suas quatro pernas. Seus olhos são de um vermelho brilhante, mas a característica mais notável deste Pokémon é o bulbo de cebola como sobre as suas costas. O bulbo também contém muitas sementes a partir do qual extrai os nutrientes.
 
-Aparência: Bulbasaur é uma criatura reptiliana que de algum jeito lembra um sapo ou um dinossauro jovem com um manchas verde-azuladas escondidas. Tem três dedos brancos ou garras crescendo fora de suas quatro pernas. Seus olhos são de um vermelho brilhante, mas a característica mais notável deste Pokémon é o bulbo de cebola como sobre as suas costas. Este bulbo tem uma relação simbiótica com os Pokémons, com crescimento de uma semente plantada em suas costas por sua mãe ao nascer.o bulbo de Bulbasaur compartilha uma relação simbiótica que é benéfico para ambos. Isso permite que Bulbasaur para obter um impulso maior da energia do sol durante o dia e o bulbo permanece crescente e forte à noite. O bulbo também contém muitas sementes a partir do qual extrai os nutrientes.
+Comportamento: Bulbasaur tendem a ter uma forte lealdade de seus amigos e trenadores. Bulbasaur eventualmente podem ser encontrados deitados ao sol durante o dia para fotossíntizar energia quando o alimento é escasso.
 
-Comportamento: Bulbasaur tendem a ter uma forte lealdade de seus amigos e trenadores. Em A Ameaça Misteriosa, por exemplo, um Bulbasaur foi abandonado pelo seu Treinador nos esgotos de Trovitopólis e lá permaneceu por muitos anos mas ainda estava feliz por vê-lo quando foi retirado de lá.Bulbasaur eventualmente podem ser encontrados deitados ao sol durante o dia para fotossíntizar energia quando o alimento é escasso.
-
-Curiosidades do Bulbassauro: Bulbassauro estica a vinha que sai de sua cabeça usando a energia da fotossíntese de sua semente para controlar o crescimento e a extensão da vinha e se mover ou interagir com o ambiente
+Como funciona a fotossíntese do Bulbassauro: absorvendo a luz solar através do bulbo em suas costas, que contém cloroplastos e clorofila, e usando essa energia para converter dióxido de carbono (CO₂) e água (H₂O) em glicose (para alimentação) e oxigênio (liberado na atmosfera). Essa capacidade de realizar fotossíntese permite que ele se alimente da energia solar, tornando-o independente de comer. 
 `)
 }
 if (pokemons == "ivysaur") {
-    alert(`Evolução de Bulbassauro ao Atingir o level 16. Quanto mais luz do sol Ivyssauro recebe, mais força brota dentro dele, permitindo que o broto em suas costas cresça mais.
+    alert(`Evolução de Bulbassauro ao Atingir o level 16. Pesa 13 kg e mede 1 m de altura. 
 
 Sua habilidade é Overgrow(Crescimento excessivo):
 aumenta os ataques de tipo planta quando o hp de Ivyssauro estiver baixo
 
-Tipagem: Planta e Venenoso
-Mede 1 m de altura
-Pesa 13 kg
-
-Aparência: seus dentes aumentam de tamanho e o bulbo em suas costas desabroxa se transformando em um broto
+Aparência: Ivysaur, assim como sua pré-evolução, Bulbasaur, lembra um sapo quadrúpede, embora as manchas em sua pele faz ele se assemelhar mais a um dinossauro. Depois de evoluir de Bulbasaur, Ivysaur cresce pequenas presas e tem entranhas de ouvido visíveis. A mais notável diferença na aparência do Ivysaur, no entanto, é que sua lâmpada se transformou em um botão de flor rosa com folhas estendendidas. Este botão de flor é pesado, deixando suas patas traseiras fortes e resistentes para apoiá-lo, fazendo com que seja incapaz de se levantar sobre as patas traseiras.
 `)
 }
 if (pokemons == "venusaur") {
