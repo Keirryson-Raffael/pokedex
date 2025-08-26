@@ -1,2 +1,2 @@
-# projeto-pessoal1-pokedex
+# pokedex
 primeiro projeto
