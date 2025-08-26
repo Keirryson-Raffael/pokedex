@@ -27,7 +27,11 @@ Tipagem: Planta e Venenoso
 Mede 0,70 cm de altura
 Pesa 6.9 kg
 
-Aparência: se assemelha a um sapo, coloração esverdeada e tem um bulbo nas costas do qual usa para se nutrir
+Aparência: Bulbasaur é uma criatura reptiliana que de algum jeito lembra um sapo ou um dinossauro jovem com um manchas verde-azuladas escondidas. Tem três dedos brancos ou garras crescendo fora de suas quatro pernas. Seus olhos são de um vermelho brilhante, mas a característica mais notável deste Pokémon é o bulbo de cebola como sobre as suas costas. Este bulbo tem uma relação simbiótica com os Pokémons, com crescimento de uma semente plantada em suas costas por sua mãe ao nascer.o bulbo de Bulbasaur compartilha uma relação simbiótica que é benéfico para ambos. Isso permite que Bulbasaur para obter um impulso maior da energia do sol durante o dia e o bulbo permanece crescente e forte à noite. O bulbo também contém muitas sementes a partir do qual extrai os nutrientes.
+
+Comportamento: Bulbasaur tendem a ter uma forte lealdade de seus amigos e trenadores. Em A Ameaça Misteriosa, por exemplo, um Bulbasaur foi abandonado pelo seu Treinador nos esgotos de Trovitopólis e lá permaneceu por muitos anos mas ainda estava feliz por vê-lo quando foi retirado de lá.Bulbasaur eventualmente podem ser encontrados deitados ao sol durante o dia para fotossíntizar energia quando o alimento é escasso.
+
+Curiosidades do Bulbassauro: Bulbassauro estica a vinha que sai de sua cabeça usando a energia da fotossíntese de sua semente para controlar o crescimento e a extensão da vinha e se mover ou interagir com o ambiente
 `)
 }
 if (pokemons == "ivysaur") {
