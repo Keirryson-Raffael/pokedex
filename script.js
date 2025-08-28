@@ -18,7 +18,7 @@ if (pokemons == "ajuda") {
 }
 
 if (pokemons == "bulbasaur" || pokemons == 1) { 
-    alert(`O pokémon sapo, planta e venonoso. Pesa 6.9kg e mede 0.7 m
+    alert(`O pokémon sapo, planta e venonoso. tipo: Planta e Venenoso, Pesa 6.9kg e mede 0.7 m
 
 Sua habilidade é Overgrow(Crescimento excessivo):
 aumenta os ataques de tipo planta quando o hp de bulbasaur estiver baixo
@@ -31,38 +31,40 @@ Como funciona a fotossíntese do Bulbassauro: absorvendo a luz solar através do
 `)
 }
 if (pokemons == "ivysaur") {
-    alert(`Evolução de Bulbassauro ao Atingir o level 16. Pesa 13 kg e mede 1 m de altura. 
+    alert(`Evolução de Bulbassauro ao Atingir o level 16. Tipo: Planta e Venenoso, Pesa 13 kg e mede 1 m de altura. 
 
 Sua habilidade é Overgrow(Crescimento excessivo):
 aumenta os ataques de tipo planta quando o hp de Ivyssauro estiver baixo
 
 Aparência: Ivysaur, assim como sua pré-evolução, Bulbasaur, lembra um sapo quadrúpede, embora as manchas em sua pele faz ele se assemelhar mais a um dinossauro. Depois de evoluir de Bulbasaur, Ivysaur cresce pequenas presas e tem entranhas de ouvido visíveis. A mais notável diferença na aparência do Ivysaur, no entanto, é que sua lâmpada se transformou em um botão de flor rosa com folhas estendendidas. Este botão de flor é pesado, deixando suas patas traseiras fortes e resistentes para apoiá-lo, fazendo com que seja incapaz de se levantar sobre as patas traseiras.
+
+Comportamento: Quando sua flor está pronta para florescer, ela exala um aroma distinto e forte e adocicado e começa a inchar. Ivyssauro também começará a passar mais tempo na luz do sol em preparação para sua próxima evolução. A exposição à luz solar aumenta a força de Ivyssauro e sua planta. O habitat natural de Ivyssauro são as planícies.
 `)
 }
 if (pokemons == "venusaur") {
-    alert(`Evolução de Ivyssauro ao atingir o level 32. Enquanto Venussauro se aquece ao sol, ele consegue converter a luz em energia, o que o torna mais potente no verão.
+    alert(`Evolução de Ivyssauro ao atingir o level 32. Tipo: Planta e Venenoso, Pesa 13 kg e mede 2 m de altura
 
 Sua habilidade é Overgrow(Crescimento excessivo):
 aumenta os ataques de tipo planta quando o hp de Venussauro estiver baixo
 
-Tipagem: Planta e Venenoso
-Mede 2 m de altura
-Pesa até 100 kg
+Aparência: Venusaur é um Pokémon anfíbio quadrúpede atarracado com pele irregular e azul-esverdeada. Tem olhos vermelhos pequenos e circulares; um focinho curto e rombudo; e uma boca larga com dois dentes pontiagudos no maxilar superior e quatro no maxilar inferior. No topo de sua cabeça há orelhas pequenas e pontiagudas com interior rosa avermelhado. Tem três dedos com garras em cada pé. O botão em suas costas floresceu em uma grande flor rosa e com manchas brancas. A flor é sustentada por um tronco grosso e marrom cercado por folhas verdes. Uma Venussauro fêmea terá uma semente no centro de sua flor.
 
-Aparência: ganha escamas e o broto em suas costas se transforma em uma árvore
+Comportamento: geralmente calmo, mas poderoso, buscando a luz do sol para gerar energia na flor em suas costas, que também libera uma fragrância que acalma e atrai outros Pokémon. Esses Pokémon são dóceis, mas defenderão seu território com força se necessário, e as fêmeas plantam sementes nas costas dos filhotes para que cresçam novas plantas. 
+
+Curiosidades: em sua última forma sua fotossíntese é tão intensa que ao usar sua flor para captar os raios do sol para convertê-los em energia, faz com que a flor fique mais vibrante e permite ele a soltar ataques como raio solar.
 `)
 }
 if (pokemons == "charmander") {
-    alert(`A chama na cauda de charmander demonstra a força de sua força vital. Se Charmander estiver fraco, a chama também queimará fracamente.
+    alert(`charmander, o pokémon salamandra de fogo, tipo: Fogo, Pesa 8.5 kg e mede 0.6 m de altura
 
 Sua habilidade é Blaze(chamas):
 Aumenta o poder dos ataques de tipo fogo quando o hp de charmander está baixo.
 
-Tipagem: Fogo
-Mede 0.6 cm de altura
-Pesa até 8.5 kg
+Aparência: É um Pokémon pequeno, bípede e parecido com um dinossauro. A maior parte de seu corpo é de cor laranja, enquanto seu ventre é de uma cor amarelo-clara pálida. Tem quatro dedos pequenos em cada mão e três garras em cada pé. Possui uma chama que queima constantemente na ponta de sua cauda.
 
-Aparência: se assemelha a uma salamandra, coloração alaranjada, e tem fogo em sua cauda
+Comportamento: Apesar de demonstrar ser um Pokémon dócil, não se dá bem com pessoas impacientes. Não gosta de ser apressado e, na maioria das vezes, não permite que isso aconteça. Não gosta de aceitar favores, porque sente que deve algo em troca. É extremamente leal aos seus entes queridos e sabe quem é do bem assim que a vê.
+
+Como Charmander produz sua chama: Charmander produz sua chama através de um mecanismo biológico interno que utiliza um líquido inflamável, e a chama em sua cauda é um indicador de sua força vital. Em vez de ser apenas um fogo superficial, o fogo é parte integrante do corpo do Pokémon, e ele pode projetar essa chama para fora pela boca ao respirar fogo. A potência e o estado da chama na cauda refletem sua saúde e emoções, sendo um sinal vital de sua vida. 
 `)
 }
 if (pokemons == "charmeleon") {
