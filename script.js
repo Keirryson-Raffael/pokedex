@@ -51,7 +51,7 @@ aumenta os ataques de tipo planta quando o hp de Venussauro estiver baixo
 
 Aparência: Venusaur é um Pokémon anfíbio quadrúpede atarracado com pele irregular e azul-esverdeada. Tem olhos vermelhos pequenos e circulares; um focinho curto e rombudo; e uma boca larga com dois dentes pontiagudos no maxilar superior e quatro no maxilar inferior. No topo de sua cabeça há orelhas pequenas e pontiagudas com interior rosa avermelhado. Tem três dedos com garras em cada pé. O botão em suas costas floresceu em uma grande flor rosa e com manchas brancas. A flor é sustentada por um tronco grosso e marrom cercado por folhas verdes. Uma Venussauro fêmea terá uma semente no centro de sua flor.
 
-Comportamento: geralmente calmo, mas poderoso, buscando a luz do sol para gerar energia na flor em suas costas, que também libera uma fragrância que acalma e atrai outros Pokémon. Esses Pokémon são dóceis, mas defenderão seu território com força se necessário, e as fêmeas plantam sementes nas costas dos filhotes para que cresçam novas plantas. 
+Comportamento: geralmente calmo, mas poderoso. Esses Pokémon são dóceis, mas defenderão seu território com força se necessário, e as fêmeas plantam sementes nas costas dos filhotes para que cresçam novas plantas. 
 
 Curiosidades: em sua última forma sua fotossíntese é tão intensa que ao usar sua flor para captar os raios do sol para convertê-los em energia, faz com que a flor fique mais vibrante e permite ele a soltar ataques como raio solar.
 `)
