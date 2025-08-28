@@ -49,7 +49,7 @@ if (pokemons == "venusaur" || pokemons == 3) {
 Sua habilidade é Overgrow(Crescimento excessivo):
 aumenta os ataques de tipo planta quando o hp de Venussauro estiver baixo
 
-Aparência: Venusaur é um Pokémon anfíbio quadrúpede atarracado com pele irregular e azul-esverdeada. Tem olhos vermelhos pequenos e circulares; um focinho curto e rombudo; e uma boca larga com dois dentes pontiagudos no maxilar superior e quatro no maxilar inferior. No topo de sua cabeça há orelhas pequenas e pontiagudas com interior rosa avermelhado. Tem três dedos com garras em cada pé. O botão em suas costas floresceu em uma grande flor rosa e com manchas brancas. A flor é sustentada por um tronco grosso e marrom cercado por folhas verdes. Uma Venussauro fêmea terá uma semente no centro de sua flor.
+Aparência: Venusaur é um Pokémon anfíbio quadrúpede atarracado com pele irregular e azul-esverdeada. Olhos vermelhos pequenos e circulares; focinho curto e rombudo; e boca larga com dois dentes pontiagudos no maxilar superior e quatro no maxilar inferior. No topo de sua cabeça há orelhas pequenas e pontiagudas. Tem três dedos com garras em cada pé. O botão em suas costas floresceu em uma grande flor rosa e com manchas brancas. A flor é sustentada por um tronco grosso e marrom cercado por folhas verdes. Uma Venussauro fêmea terá uma semente no centro de sua flor.
 
 Comportamento: geralmente calmo, mas poderoso. Esses Pokémon são dóceis, mas defenderão seu território com força se necessário, e as fêmeas plantam sementes nas costas dos filhotes para que cresçam novas plantas. 
 
