@@ -2,7 +2,7 @@ alert("Bem vindo ao identificador pokémon, caso não saiba os nomes dos pokémo
 
 let pokemons = prompt("Primeiro digite o nome do pokémon para a identificação:").toLowerCase()
 
-if (pokemons == "ajuda") {
+if (pokemons === "ajuda") {
     alert(`==============LISTA DE POKÉMONS================
         Bulbasaur
         Ivysaur
@@ -17,7 +17,7 @@ if (pokemons == "ajuda") {
 `)
 }
 
-if (pokemons == "bulbasaur" || pokemons == 1) { 
+if (pokemons === "bulbasaur" || pokemons == 1) { 
     alert(`O pokémon sapo, planta e venonoso. tipo: Planta e Venenoso, Pesa 6.9kg e mede 0.7 m
 
 Sua habilidade é Overgrow(Crescimento excessivo):
@@ -30,7 +30,7 @@ Comportamento: Bulbasaur tendem a ter uma forte lealdade de seus amigos e trenad
 Como funciona a fotossíntese do Bulbassauro: absorvendo a luz solar através do bulbo em suas costas, que contém cloroplastos e clorofila, e usando essa energia para converter dióxido de carbono (CO₂) e água (H₂O) em glicose (para alimentação) e oxigênio (liberado na atmosfera). Essa capacidade de realizar fotossíntese permite que ele se alimente da energia solar, tornando-o independente de comer. 
 `)
 }
-if (pokemons == "ivysaur") {
+if (pokemons === "ivysaur" || pokemons == 2) {
     alert(`Evolução de Bulbassauro ao Atingir o level 16. Tipo: Planta e Venenoso, Pesa 13 kg e mede 1 m de altura. 
 
 Sua habilidade é Overgrow(Crescimento excessivo):
@@ -39,9 +39,11 @@ aumenta os ataques de tipo planta quando o hp de Ivyssauro estiver baixo
 Aparência: Ivysaur, assim como sua pré-evolução, Bulbasaur, lembra um sapo quadrúpede, embora as manchas em sua pele faz ele se assemelhar mais a um dinossauro. Depois de evoluir de Bulbasaur, Ivysaur cresce pequenas presas e tem entranhas de ouvido visíveis. A mais notável diferença na aparência do Ivysaur, no entanto, é que sua lâmpada se transformou em um botão de flor rosa com folhas estendendidas. Este botão de flor é pesado, deixando suas patas traseiras fortes e resistentes para apoiá-lo, fazendo com que seja incapaz de se levantar sobre as patas traseiras.
 
 Comportamento: Quando sua flor está pronta para florescer, ela exala um aroma distinto e forte e adocicado e começa a inchar. Ivyssauro também começará a passar mais tempo na luz do sol em preparação para sua próxima evolução. A exposição à luz solar aumenta a força de Ivyssauro e sua planta. O habitat natural de Ivyssauro são as planícies.
+
+Curiosidade sobre o broto de Ivysaur: Quando o bulbo de Ivysaur está pronto para florescer, ele emite um perfume doce, sinalizando que está prestes a se transformar em Venusaur. 
 `)
 }
-if (pokemons == "venusaur") {
+if (pokemons == "venusaur" || pokemons == 3) {
     alert(`Evolução de Ivyssauro ao atingir o level 32. Tipo: Planta e Venenoso, Pesa 13 kg e mede 2 m de altura
 
 Sua habilidade é Overgrow(Crescimento excessivo):
@@ -54,7 +56,7 @@ Comportamento: geralmente calmo, mas poderoso, buscando a luz do sol para gerar 
 Curiosidades: em sua última forma sua fotossíntese é tão intensa que ao usar sua flor para captar os raios do sol para convertê-los em energia, faz com que a flor fique mais vibrante e permite ele a soltar ataques como raio solar.
 `)
 }
-if (pokemons == "charmander") {
+if (pokemons == "charmander" || pokemons == 4) {
     alert(`charmander, o pokémon salamandra de fogo, tipo: Fogo, Pesa 8.5 kg e mede 0.6 m de altura
 
 Sua habilidade é Blaze(chamas):
@@ -64,33 +66,32 @@ Aparência: É um Pokémon pequeno, bípede e parecido com um dinossauro. A maio
 
 Comportamento: Apesar de demonstrar ser um Pokémon dócil, não se dá bem com pessoas impacientes. Não gosta de ser apressado e, na maioria das vezes, não permite que isso aconteça. Não gosta de aceitar favores, porque sente que deve algo em troca. É extremamente leal aos seus entes queridos e sabe quem é do bem assim que a vê.
 
-Como Charmander produz sua chama: Charmander produz sua chama através de um mecanismo biológico interno que utiliza um líquido inflamável, e a chama em sua cauda é um indicador de sua força vital. Em vez de ser apenas um fogo superficial, o fogo é parte integrante do corpo do Pokémon, e ele pode projetar essa chama para fora pela boca ao respirar fogo. A potência e o estado da chama na cauda refletem sua saúde e emoções, sendo um sinal vital de sua vida. 
+Curiosidade de como Charmander produz sua chama: Charmander produz sua chama através de um mecanismo biológico interno que utiliza um líquido inflamável, e a chama em sua cauda é um indicador de sua força vital. Em vez de ser apenas um fogo superficial, o fogo é parte integrante do corpo do Pokémon, e ele pode projetar essa chama para fora pela boca ao respirar fogo. A potência e o estado da chama na cauda refletem sua saúde e emoções, sendo um sinal vital de sua vida. 
 `)
 }
-if (pokemons == "charmeleon") {
-    alert(`Evolução de Charmander ao atingir o level 16. Quando ele balança sua cauda em chamas, a temperatura ao redor dele sobe cada vez mais, atormentando seus oponentes.
+if (pokemons == "charmeleon" || pokemons == 5) {
+    alert(`Evolução de Charmander ao atingir o level 16. tipo: Fogo, pesa 19 kg e mede 1.1 m de altura
 
 Sua habilidade é Blaze(chamas):
 Aumenta o poder dos ataques de tipo fogo quando o hp de charmeleon está baixo.
 
-Tipagem: Fogo
-Mede 1.1 m de altura
-Pesa 19 kg
+Aparência: Charmeleon é um Pokémon bípede semelhante a um dinossauro, de pele vermelha escura, com uma chama ardente na ponta da cauda, olhos verdes, focinho longo e uma saliência em forma de chifre na parte de trás da cabeça. Possui braços longos com garras afiadas e pernas curtas com três garras nos pés.
 
-Aparência: ao evoluir, charmeleon fica um pouco avermelhado e a chama em sua cauda aumenta de tamanho.
+Comportamento: Comportamento. Charmeleon tem uma natureza perversa e constantemente procurando adversários. Adversários fortes excita este Pokémon, fazendo-a jorrar chamas azuis que tocham seus arredores. No entanto, uma vez que relaxar ganhou.
+
+Como a cauda de Charmeleon fica azul: quando ele fica muito animado e agressivo durante uma luta, sua chama entra em estado de combustão completa, ou seja, esquenta tanto a ponto de ficar azul
 `)
 }
-if (pokemons == "charizard") {
-    alert(`Evolução de Charmeleon ao atingir o level 32. Se Charizard ficar realmente irritado, a chama na ponta de sua cauda queima em um tom azul claro.
+if (pokemons == "charizard" || pokemons == 6) {
+    alert(`Evolução de Charmeleon ao atingir o level 32. Tipo: Fogo, mede 1.7 m de altura e pesa 90.5 kg
 
 Sua habilidade é Blaze(chamas):
 Aumenta o poder dos ataques de tipo fogo quando o hp de charizard está baixo.
 
-Tipagem: Fogo
-Mede 1.7 m de altura
-Pesa 90.5 kg
+Aparência: Charizard é um Pokémon grande e dracônico que difere bastante de suas formas pré-evoluídas. A coloração vermelha da pele de Charmeleon não é mais aparente, pois Charizard parece ter revertido para a coloração laranja/amarela de Charmander. Duas grandes presas podem ser vistas quando sua boca está fechada. Quando sua boca está aberta, suas presas inferiores e uma língua fina, porém longa, podem ser vistas. O único chifre que ficava na parte de trás de sua cabeça agora são dois, um de cada lado. A diferença mais notável entre Charizard e suas formas pré-evoluídas são as grandes asas que se desenvolveram em suas costas, o que lhe dá a capacidade de voar.
 
-Aparência: ao evoluir, fica muito semelhante a um dragão, ganha asas azuis e retoma seu tom alaranjado, a chama em sua cauda cresce muito
+
+
 `)
 }
 if (pokemons == "squirtle") {
