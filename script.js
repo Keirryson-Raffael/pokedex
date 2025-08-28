@@ -36,7 +36,7 @@ if (pokemons === "ivysaur" || pokemons == 2) {
 Sua habilidade é Overgrow(Crescimento excessivo):
 aumenta os ataques de tipo planta quando o hp de Ivyssauro estiver baixo
 
-Aparência: Ivysaur, assim como sua pré-evolução, Bulbasaur, lembra um sapo quadrúpede, embora as manchas em sua pele faz ele se assemelhar mais a um dinossauro. Depois de evoluir de Bulbasaur, Ivysaur cresce pequenas presas e tem entranhas de ouvido visíveis. A mais notável diferença na aparência do Ivysaur, no entanto, é que sua lâmpada se transformou em um botão de flor rosa com folhas estendendidas. Este botão de flor é pesado, deixando suas patas traseiras fortes e resistentes para apoiá-lo, fazendo com que seja incapaz de se levantar sobre as patas traseiras.
+Aparência: Ivysaur, assim como sua pré-evolução, Bulbasaur, lembra um sapo quadrúpede. Depois de evoluir de Bulbasaur, Ivysaur cresce pequenas presas e tem entranhas de ouvido visíveis. A mais notável diferença na aparência do Ivysaur, no entanto, é que sua lâmpada se transformou em um botão de flor rosa com folhas estendendidas. Este botão de flor é pesado, deixando suas patas traseiras fortes e resistentes para apoiá-lo, fazendo com que seja incapaz de se levantar sobre as patas traseiras.
 
 Comportamento: Quando sua flor está pronta para florescer, ela exala um aroma distinto e forte e adocicado e começa a inchar. Ivyssauro também começará a passar mais tempo na luz do sol em preparação para sua próxima evolução. A exposição à luz solar aumenta a força de Ivyssauro e sua planta. O habitat natural de Ivyssauro são as planícies.
 
