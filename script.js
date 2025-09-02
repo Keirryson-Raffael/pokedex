@@ -96,42 +96,40 @@ Curiosidade sobre o Charizard: assim como Charmeleon sua chama também fica azul
 `)
 }
 if (pokemons == "squirtle" || pokemons == 7) {
-    alert(`Após o nascimento, as costas de Squirtle incham e endurecem, formando uma concha. Ele exala uma espuma potente pela boca.
+    alert(`Squirtle, o pokémon tartaruga, tipo: Água, mede 0.5 cm de altura e pesa 9 kg.
 
 Sua habilidade é Torrent(Torrente):
 Aumenta o poder de ataques do tipo Água quando o hp de Squirtle está baixo.
 
-Tipagem: Água
-Mede 0.5 cm de altura
-Pesa 9 kg
+Aparência: Squirtle é um pequeno Pokémon azul-claro com aparência semelhante a uma tartaruga. Com seu formato aerodinâmico e superfície sulcada, o casco de Squirtle o ajuda a atravessar a água com muita rapidez. Também oferece proteção em batalha. Assim como as tartarugas, Squirtle possui um casco que cobre seu corpo com buracos que permitem que seus membros, cauda e cabeça fiquem expostos. Ao contrário de uma tartaruga, Squirtle é normalmente bípede.
 
-Aparência: É uma tartaruga, sua coloração é azul e sua concha marrom, que ele usa pra se defender.
+Comportamento: Squirtle costuma ser bem comportado, mas tem uma veia rebelde subjacente. Gosta de se abrir com um número limitado de pessoas e não revela seus segredos. Prefere ficar em um grupo unido, mas ainda gosta de fazer novas amizades. Outros Pokémon podem considerá-lo difícil e difícil de se relacionar, mas apenas se já o tiverem incomodado.
+
+curiosidade biológica sobre o squirtle: ele atira água porque um de seus orgãos é especial, que tem a função exata de reter e ejetar água, a casca de Squirtle, que é extremamente resistente, é usada para que ele se recolha e ainda sim consiga disparar os jatos de água. 
 `)
 }
-if (pokemons == "wartortle") {
-    alert(`Evolução de Squirtle ao atingir o level 16. A cauda longa e peluda de Wartortle é um símbolo de longevidade, por isso esse Pokémon é bastante popular entre pessoas mais velhas.
+if (pokemons == "wartortle" || pokemons == 8) {
+    alert(`Evolução de Squirtle ao atingir o level 16. 
 
 Sua habilidade é Torrent(Torrente):
-Aumenta o poder de ataques do tipo Água quando o hp de Squirtle está baixo.
+Aumenta o poder de ataques do tipo Água quando o hp de Squirtle está baixo. Tipo: Água, mede até 1 m de altura, pesa 22.5 kg
 
-Tipagem: Água
-Mede até 1 m de altura
-Pesa 22.5 kg
+Aparência: Wartortle é um Pokémon reptiliano índigo bípede semelhante a uma tartaruga . Tem olhos castanhos, uma faixa azul escura em cada bochecha e dois dentes afiados saindo de sua mandíbula superior. Tem três dedos com garras e dedos pontiagudos. Em cada lado de sua cabeça há orelhas em forma de penas cobertas de pelo azul claro.
 
-Aparência: o azul de seu corpo escurece, ganha orelhas e uma cauda peluda, se assemelhando a uma nuvem, sua concha também aumenta de tamanho.
+Comportamento: Eles usam água para se camuflar antes de atacar suas presas e nadar rapidamente atrás delas, usando suas orelhas e caudas para se equilibrar. Os Wartortles se orgulham de suas carapaças arranhadas, pois demonstram resistência em batalha. Geralmente, acredita-se que quanto mais riscos um Wartortle ganha durante esta fase, mais forte ele ganha após a evolução.
+
+curiosidade biológica do Wartortle: O ar pode ser armazenado em sua pele para mergulho subaquático prolongado. Ele se esconde na água ao caçar e emerge para surpreender sua presa. A cauda e as orelhas peludas são usadas para manter a estabilidade e o controle do corpo quando o Pokémon nada rapidamente em busca de presas.
 `)
 }
-if (pokemons == "blastoise") {
-    alert(`Evolução de Wartortle ao atingir o level 32. Ele aumenta deliberadamente o peso do seu corpo para poder suportar o recuo dos jatos de água que dispara.
+if (pokemons == "blastoise" || pokemons == 9) {
+    alert(`Evolução de Wartortle ao atingir o level 32. Tipo: Água, mede 1.6 m de altura, pesa 85.5 kg
 
 Sua habilidade é Torrent(Torrente):
 Aumenta o poder de ataques do tipo Água quando o hp de Squirtle está baixo.
-
-Tipagem: Água
-Mede 1.6 m de altura
-Pesa 85.5 kg
 
 Aparência: Blastoise muda para um azul escuro, sua carapaça muda de tamanho igualmente e dois canhões de Água são inseridos em cada lado.
+
+
 `)
 }
 if (pokemons == "caterpie") {
