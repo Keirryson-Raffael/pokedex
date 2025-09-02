@@ -23,7 +23,7 @@ if (pokemons === "bulbasaur" || pokemons == 1) {
 Sua habilidade é Overgrow(Crescimento excessivo):
 aumenta os ataques de tipo planta quando o hp de bulbasaur estiver baixo
 
-Aparência: Bulbasaur é uma criatura reptiliana que de algum jeito lembra um sapo ou um dinossauro jovem com um manchas verde-azuladas escondidas. Tem três dedos brancos ou garras crescendo fora de suas quatro pernas. Seus olhos são de um vermelho brilhante, mas a característica mais notável deste Pokémon é o bulbo de cebola como sobre as suas costas. O bulbo também contém muitas sementes a partir do qual extrai os nutrientes.
+Aparência: Bulbasaur é uma criatura reptiliana que de algum jeito lembra um sapo ou um dinossauro jovem manchas verde-azuladas escondidas. Tem três dedos brancos ou garras crescendo fora de suas quatro pernas. Seus olhos são de um vermelho brilhante, mas a característica mais notável deste Pokémon é o bulbo de cebola como sobre as suas costas. O bulbo também contém muitas sementes a partir do qual extrai os nutrientes.
 
 Comportamento: Bulbasaur tendem a ter uma forte lealdade de seus amigos e trenadores. Bulbasaur eventualmente podem ser encontrados deitados ao sol durante o dia para fotossíntizar energia quando o alimento é escasso.
 
@@ -88,13 +88,14 @@ if (pokemons == "charizard" || pokemons == 6) {
 Sua habilidade é Blaze(chamas):
 Aumenta o poder dos ataques de tipo fogo quando o hp de charizard está baixo.
 
-Aparência: Charizard é um Pokémon grande e dracônico que difere bastante de suas formas pré-evoluídas. A coloração vermelha da pele de Charmeleon não é mais aparente, pois Charizard parece ter revertido para a coloração laranja/amarela de Charmander. Duas grandes presas podem ser vistas quando sua boca está fechada. Quando sua boca está aberta, suas presas inferiores e uma língua fina, porém longa, podem ser vistas. O único chifre que ficava na parte de trás de sua cabeça agora são dois, um de cada lado. A diferença mais notável entre Charizard e suas formas pré-evoluídas são as grandes asas que se desenvolveram em suas costas, o que lhe dá a capacidade de voar.
+Aparência: Charizard é um Pokémon grande e dracônico que difere bastante de suas formas pré-evoluídas. A coloração vermelha da pele de Charmeleon não é mais aparente, pois Charizard parece ter revertido para a coloração laranja de Charmander. O único chifre que ficava na parte de trás de sua cabeça agora são dois, um de cada lado. A diferença mais notável entre Charizard e suas formas pré-evoluídas são as grandes asas que se desenvolveram em suas costas, que lhe dá a capacidade de voar.
 
+Comportamento: Charizard são nobres e não vão virar todo o poder de sua chama em oponentes significativamente mais fracos do que eles. Charizards são conhecidos por serem muito ansiosos para lutar. Charizard procura inimigos mais fortes e só respira fogo durante batalhas com oponentes dignos. O hálito de fogo é tão quente que pode transformar qualquer material em escória. Eles são muito perigosos e agressivos se provocados. Mas como Charmander e Charmeleon, é amigável e afetuoso com seu Treinador. Charizard só ignora seu Treinador se sentir que seu Treinador não se importa com ele. Apenas um Charizard fraco mostra seu poder.
 
-
+Curiosidade sobre o Charizard: assim como Charmeleon sua chama também fica azul ao ficar animado ou irritado porém por ser mais agressivo e gostar muito de batalhar, tem tendência a deixar seu fogo muito mais azulado que o normal.
 `)
 }
-if (pokemons == "squirtle") {
+if (pokemons == "squirtle" || pokemons == 7) {
     alert(`Após o nascimento, as costas de Squirtle incham e endurecem, formando uma concha. Ele exala uma espuma potente pela boca.
 
 Sua habilidade é Torrent(Torrente):
