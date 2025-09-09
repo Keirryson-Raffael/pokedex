@@ -66,7 +66,7 @@ Aparência: É um Pokémon pequeno, bípede e parecido com um dinossauro. A maio
 
 Comportamento: Apesar de demonstrar ser um Pokémon dócil, não se dá bem com pessoas impacientes. Não gosta de ser apressado e, na maioria das vezes, não permite que isso aconteça. Não gosta de aceitar favores, porque sente que deve algo em troca. É extremamente leal aos seus entes queridos e sabe quem é do bem assim que a vê.
 
-Curiosidade de como Charmander produz sua chama: Charmander produz sua chama através de um mecanismo biológico interno que utiliza um líquido inflamável, e a chama em sua cauda é um indicador de sua força vital. Em vez de ser apenas um fogo superficial, o fogo é parte integrante do corpo do Pokémon, e ele pode projetar essa chama para fora pela boca ao respirar fogo. A potência e o estado da chama na cauda refletem sua saúde e emoções, sendo um sinal vital de sua vida. 
+Curiosidade de como Charmander produz sua chama: Charmander produz sua chama através de um mecanismo biológico interno que utiliza um líquido inflamável chamado isopreno, que ao ser soprado com o gás que charmander possui, se torna uma chama, e a chama em sua cauda é um indicador de sua força vital. Em vez de ser apenas um fogo superficial, o fogo é parte integrante do corpo do Pokémon, e ele pode projetar essa chama para fora pela boca ao respirar fogo. A potência e o estado da chama na cauda refletem sua saúde e emoções, sendo um sinal vital de sua vida. 
 `)
 }
 if (pokemons == "charmeleon" || pokemons == 5) {
@@ -105,7 +105,7 @@ Aparência: Squirtle é um pequeno Pokémon azul-claro com aparência semelhante
 
 Comportamento: Squirtle costuma ser bem comportado, mas tem uma veia rebelde subjacente. Gosta de se abrir com um número limitado de pessoas e não revela seus segredos. Prefere ficar em um grupo unido, mas ainda gosta de fazer novas amizades. Outros Pokémon podem considerá-lo difícil e difícil de se relacionar, mas apenas se já o tiverem incomodado.
 
-curiosidade biológica sobre o squirtle: ele atira água porque um de seus orgãos é especial, que tem a função exata de reter e ejetar água, a casca de Squirtle, que é extremamente resistente, é usada para que ele se recolha e ainda sim consiga disparar os jatos de água. 
+Curiosidade biológica sobre o squirtle: ele atira água porque um de seus orgãos é especial, que tem a função exata de reter e ejetar água, a casca de Squirtle, que é extremamente resistente, é usada para que ele se recolha e ainda sim consiga disparar os jatos de água. 
 `)
 }
 if (pokemons == "wartortle" || pokemons == 8) {
@@ -118,7 +118,7 @@ Aparência: Wartortle é um Pokémon reptiliano índigo bípede semelhante a uma
 
 Comportamento: Eles usam água para se camuflar antes de atacar suas presas e nadar rapidamente atrás delas, usando suas orelhas e caudas para se equilibrar. Os Wartortles se orgulham de suas carapaças arranhadas, pois demonstram resistência em batalha. Geralmente, acredita-se que quanto mais riscos um Wartortle ganha durante esta fase, mais forte ele ganha após a evolução.
 
-curiosidade biológica do Wartortle: O ar pode ser armazenado em sua pele para mergulho subaquático prolongado. Ele se esconde na água ao caçar e emerge para surpreender sua presa. A cauda e as orelhas peludas são usadas para manter a estabilidade e o controle do corpo quando o Pokémon nada rapidamente em busca de presas.
+Curiosidade biológica do Wartortle: O ar pode ser armazenado em sua pele para mergulho subaquático prolongado. Ele se esconde na água ao caçar e emerge para surpreender sua presa. A cauda e as orelhas peludas são usadas para manter a estabilidade e o controle do corpo quando o Pokémon nada rapidamente em busca de presas.
 `)
 }
 if (pokemons == "blastoise" || pokemons == 9) {
@@ -127,34 +127,39 @@ if (pokemons == "blastoise" || pokemons == 9) {
 Sua habilidade é Torrent(Torrente):
 Aumenta o poder de ataques do tipo Água quando o hp de Squirtle está baixo.
 
-Aparência: Blastoise muda para um azul escuro, sua carapaça muda de tamanho igualmente e dois canhões de Água são inseridos em cada lado.
+Aparência: Blastoise é um Pokémon tartaruga bípede grande . Seu corpo é azul e está quase todo escondido por sua carapaça dura e marrom. Essa carapaça tem a parte inferior creme e uma crista branca circundando seus braços e separando as metades superior e inferior. Dois poderosos canhões de água/bicos de jato residem no topo de sua carapaça sobre seus ombros. Esses canhões podem ser estendidos ou recolhidos. A cabeça de Blastoise tem orelhas triangulares pretas por dentro, pequenos olhos castanhos e uma mandíbula inferior creme.
 
+Comportamento: O Blastoise tem um comportamento protetor e é um líder vigilante, capaz de atirar jatos de água com alta pressão para se defender e proteger outros Pokémon, especialmente em seu habitat de lagos e lagoas. Eles não são agressivos com humanos a menos que provocados, mas podem lutar ferozmente contra o perigo. 
 
+Curiosidade biológica do Blastoise: os canhões em sua carapaça são como câmaras de pressão que através da contração de seus músculos libera água em grande força e precisão.
 `)
 }
 if (pokemons == "caterpie") {
-    alert(`Para proteção, Caterpie libera um fedor horrível da antena em sua cabeça para afastar os inimigos.
+    alert(`caterpie o pokémon tipo inseto, Mede 0.3 cm de altura e pesa 2.9 kg
         
 Sua habilidade é Shield Dust(Escudo de Poeira):
 Uma poeira protetora que protege Caterpie de efeitos adicionais(veneno, queimaduras, etc)
 
-Tipagem: Inseto
-Mede 0.3 cm de altura
-Pesa 2.9 kg
+Aparência: Caterpie é um Pokémon inseto que se assemelha a uma lagarta verde, com a parte inferior amarela e uma cauda em forma de lágrima. Marcas amarelas em forma de anel nas laterais de seu corpo segmentado lembram seus olhos e servem para assustar predadores. Sua característica mais notável é a antena vermelha brilhante em sua cabeça, que libera um odor para repelir predadores.
 
-Aparência: se assemelha a uma pequena lagarta, coloração esverdeada com a parte de baixo, patas e cauda em um tom de amarelo e pequenos circulos amarelos no corpo, além de uma antena vermelha em sua testa.
+Comportamento: eles trocam de pele muitas vezes antes de finalmente se envolverem em seda grossa. Ele também pode cuspir essa seda para enredar os inimigos, ele tem um apetite voraz, levando-o a comer cem folhas diariamente. Ele até come folhas maiores do que ele.
+
+Curiosidade biológica do caterpie: sua antena possui um orgão sensorial capaz de captar estímulos de Caterpie e fazê-lo liberar um aroma, provavelmente vindo de seu sangue que contém Hemolinfa e libera um odor horrível afatando seus inimigos
 `)
 }
 if (pokemons == "metapod") {
-    alert(`Metapod aguarda o momento de evoluir. Nesse estágio, ele só pode endurecer, então permanece imóvel para evitar ataques.
+    alert(`Evolução de caterpie ao atingir o level 7. O pokémon casulo tipo inseto. Mede 0.7 cm de altura e pesa 9.9 kg 
 
 Sua habilidade é Shed Skin(Pele Escamada):
 Metapod cura suas próprias condições de status trocando de pele
 
-Tipagem: Inseto
-Mede 0.7 cm de altura
-Pesa 9.9 kg
+Aparência: Metapod é um Pokémon inseto que se assemelha a uma crisálida verde . Seu corpo tem a forma de uma lua crescente, com vários segmentos constituindo a ponta inferior. Possui dois olhos com pálpebras pesadas nas laterais da carapaça, enquanto a parte frontal apresenta porções e projeções em formato geométrico, e a parte traseira possui três saliências pontiagudas; duas voltadas para os lados e uma no meio.
 
-Aparência: ao evoluir, se torna um casulo bem enrigecido o qual protege Metapod.
+Comportamento: O Metapod é um Pokémon que passa por um estágio de evolução, caracterizado por ficar completamente imóvel e envolto em uma carapaça dura como aço para proteger seu corpo mole e delicado enquanto suas células se reconstróem em preparação para se tornar um Butterfree.
+
+Curiosidade biológica do Metapod: Metapod é impressionantemente resistente não só por sua carapaça muito dura, mas até mesmo em seus orgãos que são todos feitos para absorver impactos e protegerem o pokemon que vai sair em sua próxima evolução.
 `)
+}
+if (pokemons == "Buterfree") {
+    
 }
