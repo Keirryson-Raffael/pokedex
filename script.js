@@ -171,9 +171,6 @@ if (pokemons == "pidgeotto" || pokemons == 17) {
     Sua habilidade é Keen Eye(Olhos aguçados) na 3° gen:
     O pokémon que possui essa habilidade não perde sua precisão por ataques que tirem esse status
 
-    e Tangled Feet(Pés emaranhados) a partir da 4°:
-    Enquanto um Pokémon com essa Habilidade estiver confuso , os movimentos que o tenham como alvo terão sua precisão reduzida pela metade.
-
     Aparência: É coberto por penas marrons e tem o rosto, a parte inferior e as penas de voo de cor creme. Possui uma crista de penas vermelho-rosadas na cabeça e manchas pretas e angulares atrás dos olhos. A plumagem da cauda apresenta penas vermelhas e amarelas alternadas, com pontas irregulares. O bico e as pernas de Pidgeotto são rosados. Dois de seus dedos apontam para a frente, enquanto um aponta para trás. Além disso, possui garras poderosas e afiadas que usa para agarrar suas presas.
     
     Comportamento: Pidgeotto é um voador poderoso, capaz de transportar presas por vários quilômetros até seu ninho. Possui uma visão incrível, o que o ajuda a localizar Pokémon de suas presas preferidas, como Exeggcute e Magikarp, Pidgeotto reivindica um território extenso de mais de 100 quilômetros, que defende ferozmente. Seu ninho geralmente fica no centro de seu território e ele o circula ao longo do dia, procurando por comida e intrusos.
@@ -188,9 +185,6 @@ if (pokemons == "pidgeot" || pokemons == 18) {
     Sua habilidade é Keen Eye(Olhos aguçados) na 3° gen:
     O pokémon que possui essa habilidade não perde sua precisão por ataques que tirem esse status
 
-    e Tangled Feet(Pés emaranhados) a partir da 4°:
-    Enquanto um Pokémon com essa Habilidade estiver confuso , os movimentos que o tenham como alvo terão sua precisão reduzida pela metade.
-    
     Aparência: Sua plumagem brilhante é predominantemente marrom, com partes inferiores e penas de voo creme. Sua cabeça possui uma crista decorada quase tão longa quanto seu corpo. As penas centrais da crista são amarelas, enquanto as penas externas são vermelhas. As penas em forma de leque da cauda são vermelhas ou marrons. Seu bico e pernas são rosados, com três dedos voltados para a frente e um para trás em cada pé. Atrás de cada olho há uma marca preta angular.
     
     Comportamento: Sua plumagem é frequentemente descrita como bela, tornando-o uma escolha popular para Treinadores habilidosos . Pidgeot normalmente habita florestas temperadas com vegetação densa e árvores grandes. É conhecido por caçar Magikarp , que pode avistar de grandes alturas.
@@ -204,9 +198,7 @@ if (pokemons == "rattata" || pokemons == 19) {
         
     Sua habilidade é Run away(Fuga):
     Um Pokémon com esta Habilidade sempre pode fugir e usar Teleporte com sucesso, independentemente de movimentos de captura e Habilidades (incluindo Ingrain e movimentos de ligação ). Esta Habilidade não tem efeito na troca de turno.
-    Ou guts(Coragem):
-    Enquanto um Pokémon com esta Habilidade tiver uma condição de status (status não volátil), seu Ataque é aumentado em 50%. Além disso, um Pokémon com esta Habilidade não perde Ataque devido a queimaduras.
-    
+   
     Aparência: Rattata é um pequeno Pokémon roedor quadrúpede . Possui pelo roxo, rosto, patas e barriga creme. Possui olhos estreitos contendo esclera e pupila brancas com íris vermelhas, orelhas arredondadas com interior creme e um único bigode em cada bochecha. Sua longa cauda é firmemente enrolada na ponta. Sua característica mais notável são seus dentes grandes.
     
     Comportamento: O Rattata é um Pokémon rato muito cauteloso e adaptável, que passa o dia à procura de comida, roendo objetos duros para manter os seus incisivos sempre afiados. Extremamente fértil e de forte capacidade de sobrevivência, pode viver em qualquer tipo de ambiente, incluindo locais sujos, e não é exigente quanto ao local onde faz ninho.
@@ -219,9 +211,7 @@ if (pokemons == "raticate" || pokemons == 20) {
     
     Sua habilidade é Run away(Fuga):
     Um Pokémon com esta Habilidade sempre pode fugir e usar Teleporte com sucesso, independentemente de movimentos de captura e Habilidades (incluindo Ingrain e movimentos de ligação ). Esta Habilidade não tem efeito na troca de turno.
-    Ou guts(Coragem):
-    Enquanto um Pokémon com esta Habilidade tiver uma condição de status (status não volátil), seu Ataque é aumentado em 50%. Além disso, um Pokémon com esta Habilidade não perde Ataque devido a queimaduras.
-    
+   
     Aparência: Raticate é um Pokémon grande, semelhante a um roedor . Embora seja frequentemente representado sobre as patas traseiras, é um quadrúpede. Sua cor é predominantemente fulva com a parte inferior creme. Possui olhos pretos estreitos, orelhas com bordas irregulares e interior escuro, e grandes incisivos que crescem constantemente. Há três bigodes em cada lado do rosto, que ele usa para manter o equilíbrio. Possui braços curtos com mãos de três dedos e pés palmados com três dedos. As membranas em seus pés permitem que ele nade. Sua cauda é longa e escamosa. As fêmeas terão bigodes mais curtos.
     
     Comportamento: O Raticate é um Pokémon com comportamento geralmente agressivo, especialmente quando encurralado, e um líder de grupos de Rattata, que ele comanda para recolher alimentos frescos e nutritivos. Com as patas traseiras palmadas, ele é um bom nadador e pode nadar entre as ilhas da região de Alola.
@@ -260,9 +250,7 @@ if (pokemons === "ekans" || pokemons == 23) {
     
     Sua habilidade é Intimidate(intimidar):
     Quando um Pokémon com Intimidar entra na batalha, ele reduz a estatística de Ataque de todos os oponentes adjacentes em um estágio.
-    Ou Shed Skin(Pele Escamada):
-    O pokémon cura suas próprias condições de status trocando de pele
-    
+
     Aparência: Ekans é um Pokémon roxo e serpentino . Seus olhos, barriga, a faixa grossa ao redor do pescoço e o chocalho são amarelos. Os Ekans têm três pares de linhas pretas circundando o corpo, e outra linha se conecta a cada pupila ocular e se curva em direção ao nariz. Sua boca grande tem uma língua redonda e rosada e nenhum dente visível. Embora dolorosa, a mordida de um Ekans recém-nascido não é venenosa. Este Pokémon cresce com a idade.
     
     Comportamento: Ekans vivem em savanas e planícies gramadas , movendo-se furtivamente pela grama. Também pode ser encontrado em florestas e terrenos baldios desolados, onde caça ovos de ninhos de Pidgey e Spearow , mas ataca outras presas por trás.
@@ -271,19 +259,55 @@ if (pokemons === "ekans" || pokemons == 23) {
 }
 
 if (pokemons === "arbok" || pokemons == 24) {
-
+    alert(`O pokémon serpente. Tipo venenoso. Mede 3.5 m e pesa 65 kg.
+        
+    Sua habilidade é Intimidate(intimidar):
+    Quando um Pokémon com Intimidar entra na batalha, ele reduz a estatística de Ataque de todos os oponentes adjacentes em um estágio.
+    
+    Aparência: Arbok é um Pokémon serpentino que se assemelha a uma cobra . Possui olhos estreitos e vários dentes afiados. Logo abaixo da cabeça, há um grande capuz com um padrão semelhante ao de um rosto. Esse padrão tem mais de 20 variações possíveis. O padrão normalmente apresenta duas ocelos vermelhos e amarelos contornados em preto, uma larga faixa preta que lembra uma boca arrebitada e uma faixa preta em forma de V acima dos ocelos.
+    
+    Comportamento: De natureza muito vingativa, jamais desiste de uma caçada, não importa o quanto se prolongue, uma vez que escolhe sua presa. O padrão em sua barriga é para intimidar. Enlaça seus oponentes quando estão congelados de medo.
+    
+    Curiosidade biológica do Arbok: O desenho de "rosto" na barriga do Arbok não é fixo; existem mais de 20 variações diferentes deste padrão. Se a cabeça de Arbok for cortada, o restante do corpo pode regenerar-se em algumas semanas, indicando uma notável capacidade de recuperação. Ele tem a capacidade de sentir vibrações no solo, o que o ajuda a localizar presas ou perigos.`)
 }
 
 if (pokemons === "pikachu" || pokemons == 25) {
-
+    alert(`O pokémon roedor elétrico. Tipo elétrico. Mede 0.4 e pesa 6.0 kg.
+        
+        Sua habilidade é Static(Estática):
+        Quando um Pokémon com esta Habilidade é atingido por um movimento que faz contato , há 1/3 de chance de o Pokémon atacante ficar paralisado . Isso pode afetar Pokémon do tipo Terrestre .
+        
+        Aparência: Pikachu é um Pokémon roedor baixo e gordinho . É coberto de pelo amarelo com duas listras marrons horizontais nas costas. Tem uma boca pequena, orelhas longas e pontudas com pontas pretas e olhos castanhos. Cada bochecha é um círculo vermelho que contém uma bolsa para armazenamento de eletricidade. Tem antebraços curtos com cinco dedos em cada pata, e seus pés têm três dedos cada. Na base de sua cauda em forma de raio há uma mancha de pelo marrom.
+        
+        Comportamento: O comportamento do Pikachu varia de amigável a agressivo, dependendo da situação. Ele adora ser abraçado e ter sua cauda esfregada. No entanto, se ameaçado, pode dar choques elétricos ou morder.
+        
+        Curiosidade biológica do Pikachu: Pikachu produz eletricidade armazenando-a em bolsas elétricas nas suas bochechas e usando um orgão que serve como reservatório de sódio descarrega, onde os discos vermelhos são responsáveis pela geração e armazenamento da energia. Essa eletricidade pode ser liberada em diferentes intensidades para atacar, proteger ou interagir com outros, e as bolsas podem até mesmo faíscar quando um ataque elétrico está para ser usado.`)
 }
 
 if (pokemons === "raichu" || pokemons == 26) {
-
+    alert(`O pokémon roedor elétrico. Tipo elétrico. Mede 0.8 e pesa 30 kg.
+        
+        Sua habilidade é Static(Estática):
+        Quando um Pokémon com esta Habilidade é atingido por um movimento que faz contato , há 1/3 de chance de o Pokémon atacante ficar paralisado . Isso pode afetar Pokémon do tipo Terrestre .
+        
+        Aparência: Raichu é um Pokémon bípede, semelhante a um roedor . Embora seja classificado como bípede, Raichu geralmente se locomove de quatro. Raichu é coberto por uma pelagem laranja escura com uma barriga branca. Suas orelhas bifurcadas são marrons por fora, amarelas por dentro e terminam em um cacho distinto. Há uma marcação circular amarela em cada bochecha onde estão seus sacos elétricos e tem um nariz triangular marrom escuro. Seus braços e pés têm manchas de pelo marrom na extremidade, e as solas de seus pés longos são bronzeadas com uma almofada laranja circular no centro. Em suas costas há duas listras marrons horizontais. Sua cauda longa e fina tem uma extremidade em forma de raio.
+        
+        Comportamento: O Raichu é um Pokémon que pode variar o comportamento dependendo do acúmulo de eletricidade em seu corpo. Normalmente, ele é mais confiante e poderoso que o Pikachu, mas se acumular muita energia, torna-se irritadiço e agressivo.
+        
+        Curiosidade biológica do Raichu: A cauda de Raichu é usada para coletar eletricidade da atmosfera ou pode ser plantada no chão para procurar eletricidade. Ela também protege Raichu de seu poder de alta voltagem. Raichu pode armazenar mais de 100.000 volts de eletricidade, o suficiente para nocautear um Copperajah . Se os sacos de Raichu estiverem totalmente carregados, suas orelhas ficarão eretas e seus músculos serão estimulados.`)
 }
 
 if (pokemons === "sandshrew" || pokemons == 27) {
-
+    alert(`O pokémon tatu. Tipo terrestre. Mede 0.6 m e pesa 12 kg.
+        
+        Sua habilidade é Sand Veil(Véu de areia):
+        Um Pokémon com esta Habilidade não sofrerá dano da tempestade de areia se sofreria de outra forma .
+        
+        Aparência: Sandshrew é um Pokémon pholidote bípede (embora corra de quatro em Pokémon the Series ) [ 1 ] . Sua pele amarela com padrão de tijolo é seca e resistente, se mistura com a areia do deserto e protege sua barriga e focinho brancos e macios. Sandshrew tem olhos azuis amendoados, focinho pontudo e orelhas triangulares com interior branco. Sua cauda é grossa e cônica. Possui duas garras longas em cada pé e três garras afiadas nas patas dianteiras, que são usadas para cavar.
+        
+        Comportamento: O Sandshrew é um Pokémon que, na natureza, tem um comportamento defensivo, vivendo em desertos e cavando túneis no subterrâneo. Ele se enrola em uma bola para se proteger e usa a areia para se esconder.
+        
+        Curiosidade biológica: Sandshrew passa a maior parte do seu tempo escondido no subsolo em tocas profundas. Ele só emerge para atacar e arrastar Pokémon do tipo Inseto que passam . Sandshrew pode rapidamente se enrolar em uma bola apertada para se proteger de grandes quedas e oponentes, mas também pode jogar areia nos atacantes. Embora seu corpo possa absorver água eficientemente para facilitar a vida no deserto , Sandshrew também foi encontrado em cavernas. Ele também vive no subsolo em ninhos que criou ao cavar túneis.`)
 }
 
 if (pokemons === "sandslash" || pokemons == 28) {
