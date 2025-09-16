@@ -162,4 +162,138 @@ Curiosidade biológica do Metapod: Metapod é impressionantemente resistente nã
 }
 if (pokemons == "Buterfree") {
     
+
+}
+
+if (pokemons == "pidgeotto" || pokemons == 17) {
+    alert(`Evolução de Pidgey ao atingir o level 18. O pokémon aviário. Tipo voador e normal. Mede 1.1 m e pesa 30 kg
+        
+    Sua habilidade é Keen Eye(Olhos aguçados) na 3° gen:
+    O pokémon que possui essa habilidade não perde sua precisão por ataques que tirem esse status
+
+    e Tangled Feet(Pés emaranhados) a partir da 4°:
+    Enquanto um Pokémon com essa Habilidade estiver confuso , os movimentos que o tenham como alvo terão sua precisão reduzida pela metade.
+
+    Aparência: É coberto por penas marrons e tem o rosto, a parte inferior e as penas de voo de cor creme. Possui uma crista de penas vermelho-rosadas na cabeça e manchas pretas e angulares atrás dos olhos. A plumagem da cauda apresenta penas vermelhas e amarelas alternadas, com pontas irregulares. O bico e as pernas de Pidgeotto são rosados. Dois de seus dedos apontam para a frente, enquanto um aponta para trás. Além disso, possui garras poderosas e afiadas que usa para agarrar suas presas.
+    
+    Comportamento: Pidgeotto é um voador poderoso, capaz de transportar presas por vários quilômetros até seu ninho. Possui uma visão incrível, o que o ajuda a localizar Pokémon de suas presas preferidas, como Exeggcute e Magikarp, Pidgeotto reivindica um território extenso de mais de 100 quilômetros, que defende ferozmente. Seu ninho geralmente fica no centro de seu território e ele o circula ao longo do dia, procurando por comida e intrusos.
+    
+    Curiosidade biológica do Pidgeotto: Consegue proteger um território em volta de seu ninho a mais de 100 km de distância e seu bico é extremamente afiado para caçar Magikarps e Exeggcutes.
+    `)
+}
+
+if (pokemons == "pidgeot" || pokemons == 18) {
+    alert(`Evolução de Pidgeotto ao atingir o level 36. O pokémon aviário. Tipo normal e voador. Mede 1.5 m e pesa 39.5 kg.
+    
+    Sua habilidade é Keen Eye(Olhos aguçados) na 3° gen:
+    O pokémon que possui essa habilidade não perde sua precisão por ataques que tirem esse status
+
+    e Tangled Feet(Pés emaranhados) a partir da 4°:
+    Enquanto um Pokémon com essa Habilidade estiver confuso , os movimentos que o tenham como alvo terão sua precisão reduzida pela metade.
+    
+    Aparência: Sua plumagem brilhante é predominantemente marrom, com partes inferiores e penas de voo creme. Sua cabeça possui uma crista decorada quase tão longa quanto seu corpo. As penas centrais da crista são amarelas, enquanto as penas externas são vermelhas. As penas em forma de leque da cauda são vermelhas ou marrons. Seu bico e pernas são rosados, com três dedos voltados para a frente e um para trás em cada pé. Atrás de cada olho há uma marca preta angular.
+    
+    Comportamento: Sua plumagem é frequentemente descrita como bela, tornando-o uma escolha popular para Treinadores habilidosos . Pidgeot normalmente habita florestas temperadas com vegetação densa e árvores grandes. É conhecido por caçar Magikarp , que pode avistar de grandes alturas.
+    
+    Curiosidade biológica: As asas poderosas de Pidgeot podem provocar tempestades de vento com apenas algumas batidas, e ele pode abrir as asas para intimidar os inimigos. Este Pokémon é capaz de voar mais rápido que a velocidade do som.
+    `)
+}
+
+if (pokemons == "rattata" || pokemons == 19) {
+    alert(`O pokémon roedor. Tipo normal. Mede 0.3 cm e pesa 3.5 kg
+        
+    Sua habilidade é Run away(Fuga):
+    Um Pokémon com esta Habilidade sempre pode fugir e usar Teleporte com sucesso, independentemente de movimentos de captura e Habilidades (incluindo Ingrain e movimentos de ligação ). Esta Habilidade não tem efeito na troca de turno.
+    Ou guts(Coragem):
+    Enquanto um Pokémon com esta Habilidade tiver uma condição de status (status não volátil), seu Ataque é aumentado em 50%. Além disso, um Pokémon com esta Habilidade não perde Ataque devido a queimaduras.
+    
+    Aparência: Rattata é um pequeno Pokémon roedor quadrúpede . Possui pelo roxo, rosto, patas e barriga creme. Possui olhos estreitos contendo esclera e pupila brancas com íris vermelhas, orelhas arredondadas com interior creme e um único bigode em cada bochecha. Sua longa cauda é firmemente enrolada na ponta. Sua característica mais notável são seus dentes grandes.
+    
+    Comportamento: O Rattata é um Pokémon rato muito cauteloso e adaptável, que passa o dia à procura de comida, roendo objetos duros para manter os seus incisivos sempre afiados. Extremamente fértil e de forte capacidade de sobrevivência, pode viver em qualquer tipo de ambiente, incluindo locais sujos, e não é exigente quanto ao local onde faz ninho.
+    
+    Curiosidade biológica: Seus dentes assim como o de muitos roedores crescem rapidamente porque têm raízes abertas e vascularizadas, o que permite que o crescimento se mantenha ao longo da vida do animal, ao contrário dos dentes de outras espécies que têm raízes fechadas. Esse crescimento acelerado é uma adaptação evolutiva que exige que eles roam constantemente materiais duros para desgastar os incisivos e evitar que cresçam excessivamente, perfurando a mandíbula e dificultando a alimentação. `)
+}
+
+if (pokemons == "raticate" || pokemons == 20) {
+    alert(`Evoluçaõ de Rattata ao atingir o level 20. O pokémon roedor. Tipo normal. Mede 0.7 cm e pesa 18.5 kg.
+    
+    Sua habilidade é Run away(Fuga):
+    Um Pokémon com esta Habilidade sempre pode fugir e usar Teleporte com sucesso, independentemente de movimentos de captura e Habilidades (incluindo Ingrain e movimentos de ligação ). Esta Habilidade não tem efeito na troca de turno.
+    Ou guts(Coragem):
+    Enquanto um Pokémon com esta Habilidade tiver uma condição de status (status não volátil), seu Ataque é aumentado em 50%. Além disso, um Pokémon com esta Habilidade não perde Ataque devido a queimaduras.
+    
+    Aparência: Raticate é um Pokémon grande, semelhante a um roedor . Embora seja frequentemente representado sobre as patas traseiras, é um quadrúpede. Sua cor é predominantemente fulva com a parte inferior creme. Possui olhos pretos estreitos, orelhas com bordas irregulares e interior escuro, e grandes incisivos que crescem constantemente. Há três bigodes em cada lado do rosto, que ele usa para manter o equilíbrio. Possui braços curtos com mãos de três dedos e pés palmados com três dedos. As membranas em seus pés permitem que ele nade. Sua cauda é longa e escamosa. As fêmeas terão bigodes mais curtos.
+    
+    Comportamento: O Raticate é um Pokémon com comportamento geralmente agressivo, especialmente quando encurralado, e um líder de grupos de Rattata, que ele comanda para recolher alimentos frescos e nutritivos. Com as patas traseiras palmadas, ele é um bom nadador e pode nadar entre as ilhas da região de Alola.
+    
+    Curiosidade biológica: Seus dentes são fortes o suficiente para roer aço e seu crescimento constante significa que muitas vezes precisa roer algo, como pedras e troncos. Ele pode até mastigar as paredes das casas e é capaz de mastigar blocos de concreto e derrubar prédios de concreto.`)
+}
+
+if (pokemons === "spearow" || pokemons == 21){
+    alert(`O pokémon pássaro pequeno. Tipo normal e voador. Mede 0.3 e pesa 2 kg.
+    
+    Sua habilidade é Keen Eye(Olhos aguçados):
+    O pokémon que possui essa habilidade não perde sua precisão por ataques que tirem esse status
+    
+    Aparência: Spearow é um Pokémon aviário muito pequeno. Possui plumagem áspera e marrom na cabeça e três penas marrons na cauda. Possui olhos estreitos, castanho-escuros, com pupilas brancas e um bico curto e adunco, rosa-claro. As penas que cobrem suas asas são vermelho-rosadas com pontas mais claras, e possui a parte inferior bege com duas finas listras horizontais. Seus pés rosa-claros têm dois dedos na frente e um atrás. Penas pretas cobrem suas costas.
+    
+    Comportamento: O Spearow tem um comportamento territorial e predatório, caçando insetos e pequenas plantas com seu bico, utilizando suas asas curtas para afugentar as presas.
+    
+    Curiosidade biológica: Spearow é capaz de voar rapidamente para proteger seu território. No entanto, ele deve bater suas asas em alta velocidade para se manter no ar. Os gritos altos de Spearow podem ser ouvidos a mais de meia milha (um quilômetro) de distância e são usados ​​para alertar outros sobre seu tipo de perigo.`)
+}
+
+if (pokemons === "fearow" || pokemons == 22) {
+    alert(`Evolução de spearow ao atingir o level 20. O pokémon pássaro grande. Tipo normal e voador. Mede 1.2 e pesa 38 kg.
+        
+    Sua habilidade é Keen Eye(Olhos aguçados):
+    O pokémon que possui essa habilidade não perde sua precisão por ataques que tirem esse status
+    
+    Aparência: Fearow é um Pokémon aviário grande, predominantemente marrom, com pescoço de abutre e asas largas e poderosas. Possui um bico longo, pontudo e rosa, e uma crista vermelha decorativa no topo da cabeça. Seus olhos estreitos têm pupilas muito pequenas e não parecem ter íris coloridas.
+    
+    Comportamento: Fearow é um Pokémon aviário grande, predominantemente marrom, com pescoço de abutre e asas largas e poderosas. Possui um bico longo, pontudo e rosa, e uma crista vermelha decorativa no topo da cabeça. Seus olhos estreitos têm pupilas muito pequenas e não parecem ter íris coloridas.
+    
+    Curiosidade biológica: Suas grandes asas e resistência permitem que ele voe por um dia inteiro sem pousar. Seu longo pescoço e bico permitem que ele capture presas tanto em terra quanto na água, e é até conhecido por roubar comida de humanos desavisados. Ele dispara para cima e depois mergulha para capturar presas. Também captura pequenos insetos que se escondem no subsolo e circulam o oceano em busca de peixes.`)
+}
+
+if (pokemons === "ekans" || pokemons == 23) {
+    alert(`O pokemon serpente. Tipo venenoso. Mede 2 m e pesa 6.9 kg.
+    
+    Sua habilidade é Intimidate(intimidar):
+    Quando um Pokémon com Intimidar entra na batalha, ele reduz a estatística de Ataque de todos os oponentes adjacentes em um estágio.
+    Ou Shed Skin(Pele Escamada):
+    O pokémon cura suas próprias condições de status trocando de pele
+    
+    Aparência: Ekans é um Pokémon roxo e serpentino . Seus olhos, barriga, a faixa grossa ao redor do pescoço e o chocalho são amarelos. Os Ekans têm três pares de linhas pretas circundando o corpo, e outra linha se conecta a cada pupila ocular e se curva em direção ao nariz. Sua boca grande tem uma língua redonda e rosada e nenhum dente visível. Embora dolorosa, a mordida de um Ekans recém-nascido não é venenosa. Este Pokémon cresce com a idade.
+    
+    Comportamento: Ekans vivem em savanas e planícies gramadas , movendo-se furtivamente pela grama. Também pode ser encontrado em florestas e terrenos baldios desolados, onde caça ovos de ninhos de Pidgey e Spearow , mas ataca outras presas por trás.
+    
+    Curiosidade biológica: Ao sacudir a língua para fora, ele pode detectar o perigo e o cheiro da presa. Sua mandíbula pode se soltar para engolir presas grandes, mas tal refeição pode fazer com que os Ekans sejam pesados ​​demais para se mover ou fiquem presos e os façam desmaiar. Produz seu veneno em glândulas perto de suas presas Hipodérmicas.`)
+}
+
+if (pokemons === "arbok" || pokemons == 24) {
+
+}
+
+if (pokemons === "pikachu" || pokemons == 25) {
+
+}
+
+if (pokemons === "raichu" || pokemons == 26) {
+
+}
+
+if (pokemons === "sandshrew" || pokemons == 27) {
+
+}
+
+if (pokemons === "sandslash" || pokemons == 28) {
+
+}
+
+if (pokemons === "nidoranf" || pokemons == 29) {
+
+}
+
+if (pokemons === "nidorina" || pokemons == 30) {
+
 }
