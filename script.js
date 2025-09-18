@@ -160,9 +160,74 @@ Comportamento: O Metapod é um Pokémon que passa por um estágio de evolução,
 Curiosidade biológica do Metapod: Metapod é impressionantemente resistente não só por sua carapaça muito dura, mas até mesmo em seus orgãos que são todos feitos para absorver impactos e protegerem o pokemon que vai sair em sua próxima evolução.
 `)
 }
-if (pokemons == "Buterfree") {
-    
 
+if (pokemons === "butterfree" || pokemons == 12) {
+    alert(`Evolução de Metapod ao atingir o level 10. O pokémon casulo tipo inseto. Mede 1.1 cm de altura e pesa 32.5 kg 
+
+    Sua habilidade é Compound Eyes(Olhos Compostos):
+    Aumenta a precisão do portador da habilidade em 30%.
+
+    Aparência: Butterfree é um Pokémon inseto lepidóptero que se assemelha vagamente a uma borboleta antropomórfica com corpo roxo. Ao contrário dos insetos verdadeiros, possui apenas dois segmentos corporais e quatro patas azul-claras. O par superior de patas assemelha-se a pequenas mãos com três dedos, enquanto o par inferior assemelha-se a pés . Butterfree possui duas antenas , um focinho azul-claro com duas presas por baixo e grandes olhos compostos vermelhos.
+
+    Comportamento: Butterfree é um Pokémon amigável, conhecido por seu instinto de encontrar néctar de flores e por voar longas distâncias, para isso. As asas do Butterfree são cobertas por uma poeira que repele a água, permitindo que ele voe mesmo em condições de chuva. 
+
+    Curiosidades biológicas: Butterfree pode usar sua antena sensível para detectar os odores de flores desabrochando a seis milhas (dez quilômetros) de seu ninho em busca de néctar, que carrega com os pelos de suas pernas, seus olhos são formados por muitas unidades ópticas menores chamadas omatídios, que captam diferentes partes de uma cena e a recompõem em uma visão panorâmica do ambiente, detectando movimento com alta eficiência o que beneficia suas lentes de foco por trás de seus olhos
+`)
+}
+
+if (pokemons === "weedle" || pokemons == 13) {
+    alert(`weedle o pokémon tipo inseto, Mede 0.3 cm de altura e pesa 3.2 kg.
+        
+        Sua habilidade é Shield Dust:
+        pokemons com essa habilidade não são afetados pelos efeitos adicionais dos movimentos de dano de outros Pokémon, incluindo os efeitos adicionais de
+        
+        Aparência: Weedle é um Pokémon inseto larval com um corpo segmentado que varia de cor do amarelo ao marrom-avermelhado. Cada segmento de seu corpo é uma esfera. Ele tem um nariz vermelho bulboso, dois pequenos olhos pretos em seu rosto e dois pés esféricos em cada segmento do corpo. A combinação de vermelho e amarelo em seu esquema de cores cria um aviso brilhante para predadores de que ele é venenoso.
+        
+        Comportamento: O comportamento do Weedle é caracterizado pela sua defesa com o ferrão venenoso na cabeça, que afasta predadores, e pelo uso de seu olfato apurado, através da probóscide, para identificar folhas de qualidade para alimentação.
+        
+        Curiosidade biológica: seu corpo possui glândulas de veneno para seus 2 ferrões, um Probóscide que é um apêndice localizado na cabeça de algumas espécies de insetos permitindo eles farejarem os tipos de folhas que preferem, suas costas possuem um isolamento aprova d'água e por trás de seu grande nariz ou focinho, possui mandibulas verticais.`)
+}
+
+if (pokemons === "kakuna" || pokemons == 14) {
+    alert(`Evolução de Weedle ao atingir o level 7. O pokémon casulo tipo inseto. Tipo: Inseto e Venenoso. Mede 0.6 cm de altura e pesa 10 kg
+        
+    Sua habilidade é Shed Skin:
+    O pokémon que possui essa habilidade cura suas próprias condições de status trocando de pele
+    
+    Aparência: Kakuna é um Pokémon amarelo, semelhante a um casulo de inseto . Kakuna tem uma cabeça em forma de domo e olhos pretos e triangulares com pupilas brancas brilhantes. Ele tem dois braços em forma de foice no meio do corpo.
+    
+    Comportamento: Quando se aproxima da evolução, seu corpo emite calor que o torna quente ao toque. Kakuna permanece virtualmente imóvel e aguarda a evolução, muitas vezes pendurado em galhos de árvores por longos fios de seda. Quando atacado, no entanto, pode estender suas farpas venenosas.
+    
+    Curiosidade biológica: Seu corpo assim como o de Metapod é extremamente resistente para proteger sua evolução e usa o ferrão do pokémon dentro do casulo para se defender de outros pokemons
+    `)
+}
+
+if (pokemons === "beedrill" || pokemons == 15) {
+    alert(`Evolução de Kakuna ao atingir o level 10. O pokémon Vespa. Tipo: Inseto e Venenoso. Mede 1.0 cm de altura e pesa 29.5 kg.
+    
+    Sua habilidade é Swarm(Enxame):
+    Quando um Pokémon com Enxame usa um movimento do tipo Bug, a potência do movimento será aumentada em 50% se o usuário tiver menos ou igual a 1/3 de seu HP máximo restante.
+    
+    Aparência: Beedrill é um inseto Pokémon que se assemelha principalmente a uma vespa bípede, amarela; no entanto, ele só tem quatro pernas em vez de seis e não tem poços de pigmento. A cabeça de Beedrill é redonda com uma boca ligeiramente apontada, olhos grandes e vermelhos e antenas pretas com uma curva acentuada no meio. O ferrão abdominal contém o veneno mais potente de Beedrill. 
+    
+    Comportamento: Beedrill é altamente territorial e, ao contrário de vespas e abelhas reais, Beedrill não são confirmados para viver em verdades "coliscas", pois trabalham juntas para resolver problemas básicos em relação a alimentos, território e reprodução sem qualquer confirmação se houver um par de reprodução singular ou "Rainha".
+    
+    Curiosidade biológica: Seus músculos rotacionais aumentam a perfuração de seus ferrões.
+    `)
+}
+
+if (pokemons === "pidgey" || pokemons == 16) {
+    alert(`O pokémon pássaro. Tipo normal e voador. Mede 0.3 e pesa 1.8 kg
+    
+    Sua habilidade é Keen Eye(Olho afiado):
+    Keen Eye impede que o pokémon perda sua precisão.
+    
+    Aparência: Pidgey é um pequeno Pokémon aviário de corpo gordo. É principalmente marrom com um rosto de cor creme, parte inferior e penas de voo. No topo de sua cabeça há uma crista curta de três tufos. As penas de crista central são marrons e os dois tufos externos são de cor creme. Logo abaixo de sua crista estão seus olhos estreitos, que têm esclera branca e pupila e íris pretas.
+    
+    Comportamento: Pidgey tem um senso de direção extremamente afiado e instintos homing. Ele pode viajar diretamente de volta ao seu ninho, independentemente de quão longe ele possa ter voado. É um Pokémon dócil e prefere fugir de seus inimigos em vez de lutar contra eles. Bater suas asas rapidamente pode chicotear nuvens de poeira e criar redemoinhos para se proteger e expulsar possíveis presas.
+    
+    Curiosidade biológica: suas asas podem bater tão fortes que criam pequenos redemoinhos capazes de disnortear pokémons tipo insetos.
+    `)
 }
 
 if (pokemons == "pidgeotto" || pokemons == 17) {
@@ -321,3 +386,4 @@ if (pokemons === "nidoranf" || pokemons == 29) {
 if (pokemons === "nidorina" || pokemons == 30) {
 
 }
+
