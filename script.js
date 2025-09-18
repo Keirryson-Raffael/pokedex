@@ -376,14 +376,64 @@ if (pokemons === "sandshrew" || pokemons == 27) {
 }
 
 if (pokemons === "sandslash" || pokemons == 28) {
+    alert(`O pokémon tatu. Tipo terrestre. Mede 1 m e pesa 29.5 kg.
+        
+    Sua habilidade é Sand Rush(Corrida de areia):
+    Durante uma tempestade de areia, a estatística de velocidade de Pokémon com esta habilidade é duplicada. Um Pokémon com esta Habilidade não sofrerá nenhum dano da tempestade de areia se de outra forma. 
+    
+    Aparência: Sandslash é um Pokémon bípede e pholidote. Embora Sandslash é geralmente bípede, ele pode funcionar em todos os quatro. A maior parte do seu corpo é amarela com um submundo branco. Tem um focinho estreito, olhos azuis em forma de amêndoa e uma cauda grossa. Suas costas são cobertas principalmente de penas afiadas e marrons de sua pele dura e seca. Tem duas grandes garras em suas patas e pés. Essas garras são suas armas primárias e são usadas para cortar, mas também podem ser usadas para escavar.
 
+    Comportamento: Sandslash também é adepto de subir em árvores e é propenso a emboscar seus inimigos de cima.
+    
+    Curiosidades biológicas: A característica mais marcante do Sandslash, a proteção em forma de espinhos, é inspirada nas escamas do pangolim, um mamífero que se enrola para se proteger.`)
 }
 
 if (pokemons === "nidoranf" || pokemons == 29) {
-
+    alert(`O pokémon coelho. Tipo venenoso. Mede 0.4 cm e 7 kg.
+        
+    Sua habilidade é Poison Point(Ponto de Veneno):
+    Quando um Pokémon com esta habilidade é atingido por um movimento que faz contato, há uma chance de 1/3 de que o Pokémon atacante seja envenenado. Esta Habilidade não pode envenenar Pokémon do tipo Veneno ou Aço.
+    
+    Aparência: Nidoran é um pequeno, quadrúpede, Pokémon de mamíferos. Tem orelhas grandes e espinhosas, dentes frontais de grandes dimensões, olhos vermelhos e bigodes em cada bochecha. É azul claro com várias manchas azuis mais escuras. Há duas garras brancas em cada uma das patas. Suas costas são cobertas com pequenos espinhos tóxicos e tem um chifre de testa pequeno.
+    
+    Comportamento: Nidoran fêmea é mais sensível ao cheiro do que Nidoran macho. Ele pode usar seus bigodes para verificar o vento enquanto procura por bagas ou evitando predadores. Nidoran pode usar seus dentes incisivos para esmagar as bagas que forrageia. Nidorans fêmeas não podem ser do gênero masculino. O mesmo vale para nidorans macho
+    
+    Curiosidade biológica: Os venenos secretados pelos espinhos e pelo chifre são extremamente potentes, e até mesmo um zarpamento de seu chifre ou uma gota de veneno de suas farpas pode ser mortal. No entanto, este Pokémon dócil só usa seu veneno quando se sente ameaçado.`)
 }
 
 if (pokemons === "nidorina" || pokemons == 30) {
+    alert(`O pokemon coelho. Tipo venenoso. Mede 0.8 e pesa 20 kg.
+        
+    Sua habilidade Poison Point(Ponto venenoso):
+    Quando um Pokémon com esta habilidade é atingido por um movimento que faz contato, há uma chance de 1/3 de que o Pokémon atacante seja envenenado. Esta Habilidade não pode envenenar Pokémon do tipo Veneno ou Aço.
+    
+    Aparência: Nidorina é um quadrúpede, mammalianazul-azul-monte Pokémon com manchas azul-escuras. Tem olhos vermelhos, orelhas grandes e espinhosas e dois dentes pontiagudos que se projetam de sua mandíbula superior. Possui grandes picos de veneno, que se retrai sempre que está com um grupo, alimentando seus filhos ou descansando em sua toca. Suas patas têm três garras cada, e é capaz de ficar em suas patas traseiras. As patas traseiras são mais longas e mais grossas do que as patas dianteiras. Tem uma cauda atarracada.
+    
+    Comportamento: Nidorina é um Pokémon gentil, e é conhecida por ser uma mãe carinhosa que mastiga comida para seus filhotes. Parece exibir laços familiares próximos com outros de seu tipo e fica nervoso quando separado
+    
+    Curiosidade biológica: Nidorina prefere não lutar, já que seu chifre cresce lentamente, mas se for forçado ou enfurecido, prefere ataques físicos como assar e morder. Nidorina prefere mastigar sua comida em uma pasta antes de cuspi-la e alimentar seus filhos. Também emite gritos ultrassônicos para confundir inimigos.`)
+}
+
+if (pokemons === "nidoqueen" || pokemons == 31) {
+    alert(`O pokemon c`)
+}
+
+if (pokemons === "nidoranm" || pokemons == 32) {
 
 }
 
+if (pokemons === "nidorino" || pokemons == 33) {
+
+}
+
+if (pokemons === "nidoking" || pokemons == 34) {
+
+}
+
+if (pokemons === "clefairy" || pokemons == 35) {
+
+}
+
+if (pokemons === "clefable" || pokemons == 36) {
+    
+}
