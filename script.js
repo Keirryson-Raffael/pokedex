@@ -555,8 +555,6 @@ if (pokemons === "mankey" || pokemons == 56) {
 
 }
 
-if (pokemons === "Primeape" || pokemons == 57) {}
-=======
+if (pokemons === "Primeape" || pokemons == 57) {
 
-
->>>>>>> 1ae6d9ea24383a7bcf20c1a8aebf0e44b68a8bb4
+}
