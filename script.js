@@ -4,31 +4,29 @@ let pokemons = prompt("Primeiro digite o nome do pokémon para a identificação
 
 if (pokemons === "ajuda") {
     alert(`==============LISTA DE POKÉMONS================
-        Bulbasaur
-        Ivysaur
-        Venusaur
-        Charmander
-        Charmeleon
-        Charizard
-        Squirtle
-        Wartortle
-        Blastoise
-        Caterpie
-        Metapod
-        Butterfree
-        Weedle
-        Kakuna
-        Beedril
-        Pidgey
-        Pidgeotto
-        Pidgeot
-        Rattata
-        Raticate
-        Spearow
-        Fearow
+    (1) Bulbasaur       Arbok
+    (2) Ivysaur         Pikachu
+    (3) Venusaur        Raichu
+    (4) Charmander      Sandshrew
+        Charmeleon      Sandslash
+        Charizard       NidoranF
+        Squirtle        Nidorina
+        Wartortle       Nidoqueen
+        Blastoise       NidoranM
+        Caterpie        Nidorino
+        Metapod         Nidoking
+        Butterfree      Clefairy
+        Weedle          Clefable
+        Kakuna          Vulpix
+        Beedril         Ninetales
+        Pidgey          Jigglypuff
+        Pidgeotto       Wiglytuff
+        Pidgeot         Zubat
+        Rattata         Golbat
+        Raticate        Oddish
+        Spearow         Gloom
+        Fearow          Vileplume
         Ekans
-        Arbok
-        Pikachu
 `)
 }
 
@@ -45,6 +43,7 @@ Comportamento: Bulbasaur tendem a ter uma forte lealdade de seus amigos e trenad
 Como funciona a fotossíntese do Bulbassauro: absorvendo a luz solar através do bulbo em suas costas, que contém cloroplastos e clorofila, e usando essa energia para converter dióxido de carbono (CO₂) e água (H₂O) em glicose (para alimentação) e oxigênio (liberado na atmosfera). Essa capacidade de realizar fotossíntese permite que ele se alimente da energia solar, tornando-o independente de comer. 
 `)
 }
+
 if (pokemons === "ivysaur" || pokemons == 2) {
     alert(`Evolução de Bulbassauro ao Atingir o level 16. Tipo: Planta e Venenoso, Pesa 13 kg e mede 1 m de altura. 
 
@@ -58,6 +57,7 @@ Comportamento: Quando sua flor está pronta para florescer, ela exala um aroma d
 Curiosidade sobre o broto de Ivysaur: Quando o bulbo de Ivysaur está pronto para florescer, ele emite um perfume doce, sinalizando que está prestes a se transformar em Venusaur. 
 `)
 }
+
 if (pokemons == "venusaur" || pokemons == 3) {
     alert(`Evolução de Ivyssauro ao atingir o level 32. Tipo: Planta e Venenoso, Pesa 13 kg e mede 2 m de altura
 
@@ -71,6 +71,7 @@ Comportamento: geralmente calmo, mas poderoso. Esses Pokémon são dóceis, mas 
 Curiosidades: em sua última forma sua fotossíntese é tão intensa que ao usar sua flor para captar os raios do sol para convertê-los em energia, faz com que a flor fique mais vibrante e permite ele a soltar ataques como raio solar.
 `)
 }
+
 if (pokemons == "charmander" || pokemons == 4) {
     alert(`charmander, o pokémon salamandra de fogo, tipo: Fogo, Pesa 8.5 kg e mede 0.6 m de altura
 
@@ -84,6 +85,7 @@ Comportamento: Apesar de demonstrar ser um Pokémon dócil, não se dá bem com 
 Curiosidade de como Charmander produz sua chama: Charmander produz sua chama através de um mecanismo biológico interno que utiliza um líquido inflamável chamado isopreno, que ao ser soprado com o gás que charmander possui, se torna uma chama, e a chama em sua cauda é um indicador de sua força vital. Em vez de ser apenas um fogo superficial, o fogo é parte integrante do corpo do Pokémon, e ele pode projetar essa chama para fora pela boca ao respirar fogo. A potência e o estado da chama na cauda refletem sua saúde e emoções, sendo um sinal vital de sua vida. 
 `)
 }
+
 if (pokemons == "charmeleon" || pokemons == 5) {
     alert(`Evolução de Charmander ao atingir o level 16. tipo: Fogo, pesa 19 kg e mede 1.1 m de altura
 
@@ -97,6 +99,7 @@ Comportamento: Comportamento. Charmeleon tem uma natureza perversa e constanteme
 Como a cauda de Charmeleon fica azul: quando ele fica muito animado e agressivo durante uma luta, sua chama entra em estado de combustão completa, ou seja, esquenta tanto a ponto de ficar azul
 `)
 }
+
 if (pokemons == "charizard" || pokemons == 6) {
     alert(`Evolução de Charmeleon ao atingir o level 32. Tipo: Fogo, mede 1.7 m de altura e pesa 90.5 kg
 
@@ -110,6 +113,7 @@ Comportamento: Charizard são nobres e não vão virar todo o poder de sua chama
 Curiosidade sobre o Charizard: assim como Charmeleon sua chama também fica azul ao ficar animado ou irritado porém por ser mais agressivo e gostar muito de batalhar, tem tendência a deixar seu fogo muito mais azulado que o normal.
 `)
 }
+
 if (pokemons == "squirtle" || pokemons == 7) {
     alert(`Squirtle, o pokémon tartaruga, tipo: Água, mede 0.5 cm de altura e pesa 9 kg.
 
@@ -123,6 +127,7 @@ Comportamento: Squirtle costuma ser bem comportado, mas tem uma veia rebelde sub
 Curiosidade biológica sobre o squirtle: ele atira água porque um de seus orgãos é especial, que tem a função exata de reter e ejetar água, a casca de Squirtle, que é extremamente resistente, é usada para que ele se recolha e ainda sim consiga disparar os jatos de água. 
 `)
 }
+
 if (pokemons == "wartortle" || pokemons == 8) {
     alert(`Evolução de Squirtle ao atingir o level 16. 
 
@@ -136,6 +141,7 @@ Comportamento: Eles usam água para se camuflar antes de atacar suas presas e na
 Curiosidade biológica do Wartortle: O ar pode ser armazenado em sua pele para mergulho subaquático prolongado. Ele se esconde na água ao caçar e emerge para surpreender sua presa. A cauda e as orelhas peludas são usadas para manter a estabilidade e o controle do corpo quando o Pokémon nada rapidamente em busca de presas.
 `)
 }
+
 if (pokemons == "blastoise" || pokemons == 9) {
     alert(`Evolução de Wartortle ao atingir o level 32. Tipo: Água, mede 1.6 m de altura, pesa 85.5 kg
 
@@ -149,6 +155,7 @@ Comportamento: O Blastoise tem um comportamento protetor e é um líder vigilant
 Curiosidade biológica do Blastoise: os canhões em sua carapaça são como câmaras de pressão que através da contração de seus músculos libera água em grande força e precisão.
 `)
 }
+
 if (pokemons == "caterpie") {
     alert(`caterpie o pokémon tipo inseto, Mede 0.3 cm de altura e pesa 2.9 kg
         
@@ -162,6 +169,7 @@ Comportamento: eles trocam de pele muitas vezes antes de finalmente se envolvere
 Curiosidade biológica do caterpie: sua antena possui um orgão sensorial capaz de captar estímulos de Caterpie e fazê-lo liberar um aroma, provavelmente vindo de seu sangue que contém Hemolinfa e libera um odor horrível afatando seus inimigos
 `)
 }
+
 if (pokemons == "metapod") {
     alert(`Evolução de caterpie ao atingir o level 7. O pokémon casulo tipo inseto. Mede 0.7 cm de altura e pesa 9.9 kg 
 
@@ -500,5 +508,5 @@ if (pokemons === "gloom" || pokemons == 44) {
 }
 
 if (pokemons === "vileplume" || pokemons == 45) {
-    
+
 }
