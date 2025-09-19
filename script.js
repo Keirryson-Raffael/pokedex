@@ -509,4 +509,52 @@ if (pokemons === "gloom" || pokemons == 44) {
 
 if (pokemons === "vileplume" || pokemons == 45) {
 
+
+if (pokemons === "paras" || pokemons == 46) {
+
 }
+
+if (pokemons === "parasect" || pokemons == 47) {
+
+}
+
+if (pokemons === "venonat" || pokemons == 48) {
+
+}
+
+if (pokemons === "venomoth" || pokemons == 49) {
+
+}
+
+if (pokemons === "diglett" || pokemons == 50) {
+
+}
+
+if (pokemons === "dugtrio" || pokemons == 51) {
+
+}
+
+if (pokemons === "meowth" || pokemons == 52) {
+
+}
+
+if (pokemons === "persian" || pokemons == 53) {
+
+}
+
+if (pokemons === "psyduck" || pokemons == 54) {
+
+}
+
+if (pokemons === "golduck" || pokemons == 55) {
+
+}
+
+if (pokemons === "mankey" || pokemons == 56) {
+
+}
+
+if (pokemons === "Primeape" || pokemons == 57) {}
+=======
+
+>>>>>>> 1ae6d9ea24383a7bcf20c1a8aebf0e44b68a8bb4
