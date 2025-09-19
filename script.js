@@ -14,6 +14,21 @@ if (pokemons === "ajuda") {
         Wartortle
         Blastoise
         Caterpie
+        Metapod
+        Butterfree
+        Weedle
+        Kakuna
+        Beedril
+        Pidgey
+        Pidgeotto
+        Pidgeot
+        Rattata
+        Raticate
+        Spearow
+        Fearow
+        Ekans
+        Arbok
+        Pikachu
 `)
 }
 
@@ -415,11 +430,25 @@ if (pokemons === "nidorina" || pokemons == 30) {
 }
 
 if (pokemons === "nidoqueen" || pokemons == 31) {
-    alert(`O pokemon c`)
+    alert(`O pokémon tipo venenoso. Mede 1.3 m e pesa 60 kg.
+        
+    Sua habilidade é Poison Point(Ponto venenoso):
+    Quando um Pokémon com esta habilidade é atingido por um movimento que faz contato, há uma chance de 1/3 de que o Pokémon atacante seja envenenado. Esta Habilidade não pode envenenar Pokémon do tipo Veneno ou Aço.
+    
+    Aparência: Nidoqueen é um grande Pokémon de mamíferos azuis bípedes com características reptilianas distintas. Seu corpo é envolto em escalas extremamente duras que servem como excelente proteção contra qualquer ataque e se levantam quando Nidoqueen está excitada ou provocada. Tem um focinho contundente, olhos castanhos estreitos e orelhas grandes com interiores castanhos. Há um pequeno chifre em sua testa, uma única coluna em cada orelha e uma linha de espinhos tóxicos que correm pelas costas.
+    
+    Comportamento: Nidoqueen pode ser bastante feroz e é muito protetor de seus jovens. Este Pokémon é mais forte quando está defendendo seus filhotes, e ele tentará selar a entrada para sua toca para protegê-los. Também coloca seus filhotes nas lacunas entre as espinhas nas costas, que nunca liberam veneno quando as crianças estão presentes.
+    
+    Curiosidade biológica: As escamas de cavaça de Nidoqueen permitem que ela defenda seus filhos de qualquer ataque. Quando em contato com os inimigos, pode envenená-los com os picos nas costas ou causar pequenos tremores batendo no chão. Também é adepto de enviar inimigos voando com tackles agressivos, e usa seu volume pesado para executar movimentos poderosos.`)
 }
 
 if (pokemons === "nidoranm" || pokemons == 32) {
-
+    alert(`O pokémon coelho. Tipo venenoso. Mede 0.5 e pesa 9 kg.
+        
+    Sua habilidade é Poison Point(Ponto venenoso):
+    Quando um Pokémon com esta habilidade é atingido por um movimento que faz contato, há uma chance de 1/3 de que o Pokémon atacante seja envenenado. Esta Habilidade não pode envenenar Pokémon do tipo Veneno ou Aço.
+    
+    Aparência: `)
 }
 
 if (pokemons === "nidorino" || pokemons == 33) {
@@ -435,5 +464,41 @@ if (pokemons === "clefairy" || pokemons == 35) {
 }
 
 if (pokemons === "clefable" || pokemons == 36) {
+    
+}
+
+if (pokemons === "vulpix" || pokemons == 37) {
+
+}
+
+if (pokemons === "ninetales" || pokemons == 38) {
+
+}
+
+if (pokemons === "jigglypuff" || pokemons == 39) {
+
+}
+
+if (pokemons === "wigglytuff" || pokemons == 40) {
+
+}
+
+if (pokemons === "zubat" || pokemons == 41) {
+
+}
+
+if (pokemons === "golbat" || pokemons == 42) {
+
+}
+
+if (pokemons === "oddish" || pokemons == 43) {
+
+}
+
+if (pokemons === "gloom" || pokemons == 44) {
+
+}
+
+if (pokemons === "vileplume" || pokemons == 45) {
     
 }
